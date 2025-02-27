@@ -1,0 +1,15 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore PyCharm settings
+.idea/
+
+# Ignore API keys
+.env
+
+# Ignore logs and cache
+*.log
+__pycache__/
+
+# Ignore dataset files
+*.csv
