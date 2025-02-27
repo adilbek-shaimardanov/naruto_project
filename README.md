@@ -16,6 +16,9 @@ The project consists of several stages:
 /visualization/     # Graphs and visualizations
 ```
 
+## 📄 Project Documentation
+[📂 The presentation (PDF)](docs/presentation.pdf)
+
 ## 🚀 Installation
 ### 1️⃣ Clone the Repository
 ```sh
@@ -31,7 +34,7 @@ pip install -r requirements.txt
 ### 3️⃣ Set Up API Key
 Create a `.env` file in the project root and add the following line:
 ```sh
-QWEN_API_KEY=your_api_key_here
+QWEN_API_KEY=your_api_key
 ```
 
 ## 🔥 Usage
@@ -55,13 +58,17 @@ python src/final_dataset.py
 Open `graphs.R` in RStudio and run the script.
 
 ## 📊 Demo Results
-Character interaction visualizations:
-![Graph 1](visualization/graph1.png)
-![Graph 2](visualization/graph2.png)
+Examples of Character interaction visualizations (there is more available!):
+
+![Graph 1](visualization/Heatmap.png)
+
+![Graph 2](visualization/Frequency of tags.png)
 
 ## 🤝 Contributing
 You can contribute by submitting a `pull request` or creating an issue. Any help is welcome!
 
 ---
+*P.S. Sorry, this README was generated with the help of ChatGPT because I was too lazy to write it myself.* 😅
+
 ### 📌 Author
 Project created by **Adilbek Shaimardanov** 🍋
