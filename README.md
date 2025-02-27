@@ -62,7 +62,7 @@ Examples of Character interaction visualizations (there is more available!):
 
 ![Graph 1](visualization/Heatmap.png)
 
-![Graph 2](visualization/Frequency of tags.png)
+![Graph 2](visualization/Frequency_of_tags.png)
 
 ## 🤝 Contributing
 You can contribute by submitting a `pull request` or creating an issue. Any help is welcome!
